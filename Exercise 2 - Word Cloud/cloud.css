@@ -14,6 +14,8 @@
     height: 400px;
     width: 600px;
     padding: 30px;
+    display: flex;
+    flex-direction: row;
   }
   
   .one {
@@ -25,63 +27,66 @@
 
   }
   .five {
-    color: brown;
-    font-size: 32px;
+    color: rgb(10, 52, 10);
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
   }
   .two {
-    color: brown;
-    font-size: 32px;
+    color: rgb(76, 11, 11);
+    font-size: 56px;
  
   }
   .three {
-    color: brown;
-    font-size: 32px;
+    color: rgb(97, 6, 6);
+    font-size: 52px;
 
   }
   .four {
-    color: brown;
-    font-size: 32px;
+    color: rgb(6, 70, 6);
+    font-size: 48px;
  
   }
   .five {
-    color: brown;
-    font-size: 32px;
+    color: rgb(69, 42, 42);
+    font-size: 44px;
 
   }
   .six {
     color: brown;
-    font-size: 32px;
+    font-size: 40px;
 
   }
   .seven {
     color: brown;
-    font-size: 32px;
+    font-size: 38px;
    
   }
   .eight {
-    color: brown;
-    font-size: 32px;
+    color: rgb(106, 215, 106);
+    font-size: 34px;
 
   }
   .nine {
     color: brown;
-    font-size: 32px;
+    font-size: 30px;
 
   }
   .ten {
-    color: brown;
-    font-size: 32px;
+    color: rgb(86, 46, 46);
+    font-size: 28px;
 
   }
   .eleven {
-    color: brown;
-    font-size: 32px;
+    color: rgb(9, 85, 9);
+    font-size: 24px;
 
   }
   .twelve {
     color: brown;
-    font-size: 32px;
+    font-size: 20px;
 
   }
   
