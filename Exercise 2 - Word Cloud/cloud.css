@@ -2,3 +2,88 @@
     color: red;
     font-size: 64px;
 }
+/* cloud.css */
+.word-cloud {
+    width: 600px;
+    height: 400px;
+    background-color: #f0f0f0;
+    position: relative;
+    font-family: Arial, sans-serif;
+  }
+  .container{
+    height: 400px;
+    width: 600px;
+    padding: 30px;
+  }
+  
+  .one {
+    color: rgb(4, 71, 4);
+    font-size: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  .five {
+    color: brown;
+    font-size: 32px;
+
+  }
+  .two {
+    color: brown;
+    font-size: 32px;
+ 
+  }
+  .three {
+    color: brown;
+    font-size: 32px;
+
+  }
+  .four {
+    color: brown;
+    font-size: 32px;
+ 
+  }
+  .five {
+    color: brown;
+    font-size: 32px;
+
+  }
+  .six {
+    color: brown;
+    font-size: 32px;
+
+  }
+  .seven {
+    color: brown;
+    font-size: 32px;
+   
+  }
+  .eight {
+    color: brown;
+    font-size: 32px;
+
+  }
+  .nine {
+    color: brown;
+    font-size: 32px;
+
+  }
+  .ten {
+    color: brown;
+    font-size: 32px;
+
+  }
+  .eleven {
+    color: brown;
+    font-size: 32px;
+
+  }
+  .twelve {
+    color: brown;
+    font-size: 32px;
+
+  }
+  
+  /* Add more custom styles here if needed */
+  
